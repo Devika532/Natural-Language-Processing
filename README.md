@@ -33,10 +33,9 @@ Install dependencies with:
 
 
 ## 🧪 How to Run
-1. Open the notebook `CW1_Offensive_Language_Detection.ipynb` in Google Colab.
-2. Upload the dataset file `offenseval-training-v1.tsv` to the `data/` folder.
+1. Open the notebook `NLPAssignment1.ipynb` in Google Colab.
+2. Upload the dataset file `trial_en.tsv` to the `data/` folder.
 3. Run each cell sequentially.
-4. Results and plots will be saved to the `results/` folder.
 
 ## 👩‍💻 Author
 **Devika Giriyappa**  
